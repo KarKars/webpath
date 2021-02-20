@@ -1,0 +1,15 @@
+div {
+  font-size: 10px;
+  background: red;
+  height: 100vh;
+  padding: 4em 8em 9em 40%;
+  border-style: solid;
+  border-color: black;
+  border-width: 3px;
+}
+.absolute {
+  font-size: 40px;
+}
+.relative {
+  font-size: 4em;
+}
