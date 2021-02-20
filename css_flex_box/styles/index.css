@@ -1,0 +1,28 @@
+body{
+    max-width: 900px;
+    margin: auto;
+}
+.container{
+    display: flex;
+    justify-content: flex-end;
+    border:5px solid darkgoldenrod;
+    flex-wrap: wrap;
+}
+.container div{
+    
+    margin: 10px;
+    text-align: center;
+    font-size: 5em;
+}
+.item1{
+    background-color: darkkhaki;
+    color: wheat;
+}
+.item2{
+    background-color: darkolivegreen;
+    color: wheat;
+}
+.item3{
+    background-color: turquoise;
+    color: thistle;
+}
