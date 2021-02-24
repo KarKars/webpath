@@ -1,15 +1,14 @@
-div {
-  font-size: 10px;
-  background: red;
-  height: 100vh;
-  padding: 4em 8em 9em 40%;
-  border-style: solid;
-  border-color: black;
-  border-width: 3px;
+.block {
+  background: black ;
+  color:white;
+  display: block;
+  text-align: center;
+
 }
-.absolute {
-  font-size: 40px;
+.inline {
+  background: blue;
+  color: white;
 }
-.relative {
-  font-size: 4em;
+body{
+  text-align: center;
 }
