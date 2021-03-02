@@ -1,14 +1,11 @@
-.block {
-  background: black ;
-  color:white;
-  display: block;
-  text-align: center;
-
-}
-.inline {
-  background: blue;
+div{
+  height:100vh ;
+  width: 100vh;
   color: white;
 }
-body{
-  text-align: center;
+.image{
+  background:url("../image.jpg"); 
+  background-size: cover;
+  background-position: 10% 70%;
+
 }
