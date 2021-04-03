@@ -1,4 +1,4 @@
-#!/home/kars/Documents/web_path/webpath/django/myvenv/bin/python3
+#!/home/kars/Documents/web_path/webpath/django/myvenv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
